@@ -1,6 +1,6 @@
-# HelpDeskJava
+# HelpDesk
 
-**HelpDeskJava** è un'applicazione backend REST sviluppata con Java e Spring Boot per la gestione delle richieste di assistenza informatica (ticket) e dei tecnici incaricati.
+**HelpDesk** è un'applicazione backend REST sviluppata con Java e Spring Boot per la gestione delle richieste di assistenza informatica (ticket) e dei tecnici incaricati.
 
 Il progetto permette di creare e consultare ticket, assegnarli ai tecnici, gestirne priorità e stato e consultare le richieste in base a diversi criteri.
 
