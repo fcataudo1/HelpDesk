@@ -117,8 +117,8 @@ La configurazione JPA utilizza Hibernate per aggiornare lo schema del database i
 1. Clonare il repository:
 
 ```bash
-git clone URL_DEL_REPOSITORY
-cd HelpDeskJava
+git clone https://github.com/fcataudo1/HelpDesk.git
+cd HelpDesk
 ```
 
 2. Creare il database PostgreSQL `helpdesk`.
@@ -141,17 +141,13 @@ Su Linux/macOS:
 
 L'applicazione sarà disponibile all'indirizzo:
 
-```text
-http://localhost:8080
-```
+[http://localhost:8080](http://localhost:8080)
 
 ## Documentazione API
 
 La documentazione delle API è disponibile tramite Swagger UI:
 
-```text
-http://localhost:8080/swagger-ui/index.html
-```
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 ### Endpoint per i ticket
 
